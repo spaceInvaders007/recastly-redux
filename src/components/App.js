@@ -16,7 +16,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    this.getYouTubeVideos('react tutorials');
+    this.getYouTubeVideos('buff kangaroos');
   }
 
   handleVideoListEntryTitleClick(video) {
